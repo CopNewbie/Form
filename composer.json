@@ -1,0 +1,17 @@
+{
+    "name": "rduuke/html",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RDuuke",
+            "email": "juuanduuke@gmail.com"
+        }
+    ],
+    "require": {},
+       "autoload":{
+        "psr-4":{
+            "RDuuke\\Form\\": "src/"
+            }
+
+    }
+}
