@@ -32,7 +32,7 @@ class FormBuilder
      */
     public function close()
     {
-        return self::render('</form');
+        return self::render('</form>');
     }
 
     /**
